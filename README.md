@@ -32,11 +32,17 @@ The ability to predict rain and the amount of the rain will help farmers plan wh
 </ul>
 <h1>Questions:</h1>
 <ul>
-<li>Does having rain today have an effect on whether it will rain the next or not?</li>
-<li>Does Minimum Temp have an effect on whether it will rain the next or not?</li>
-<li>Does Maximum Temp have an effect on whether it will rain the next or not?</li>
-<li>Does Sunshine have an effect on whether it will rain the next or not?</li>
-<li>Does WindGustSpeed have an effect on whether it will rain the next or not?</li>
-<li>Does Humidity have an effect on whether it will rain the next or not?</li>
-<li>Does Pressure have an effect on whether it will rain the next or not?</li>
+<li>Does having rain today have an effect on rain?</li>
+<li>Does Minimum Temp have an effect on rain?</li>
+<li>Does Maximum Temp have an effect on rain?</li>
+<li>Does Sunshine have an effect on rain?</li>
+<li>Does WindGustSpeed have an effect rain?</li>
+<li>Does Humidity have an effect on rain?</li>
+<li>Does Pressure have an effect on rain?</li>
+<li>Does Minimum Temp have an effect on rainfall?</li>
+<li>Does Maximum Temp have an effect on rainfall?</li>
+<li>Does Sunshine have an effect on rainfall?</li>
+<li>Does WindGustSpeed have an effect on rainfall?</li>
+<li>Does Humidity have an effect on on rainfall?</li>
+<li>Does Pressure have an effect on rainfall?</li>
 </ul>
