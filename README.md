@@ -1,7 +1,7 @@
 # Machine-Learning-Diploma-Mid-Project
 # Introduction:
-The issue of Climate Change is threating the existence of all humanity, it includes rising sea levels, ecosystem collapse and more frequent and severe weather. Rising temperatures from human-caused greenhouse gas emissions affects planet-wide systems causing drought and severe heat.
-The goal of the proposed project is to predict whether there will be rain in the next day in Australia based on the previous data gathered between 2008 and 2017, based on RainTomorrow feature we can extract a feature to predict whether it will rain during the season or not, also the rainfall feature can be used to extract an output feature that can predict the amount of water expected in a certain season.
+The issue of Climate Change is threating the existence of all humanity, it includes rising sea levels, ecosystem collapse and more frequent and severe weather. Rising temperatures from human-caused greenhouse gas emissions affects planet-wide systems causing drought and severe heat.<br>
+The goal of the proposed project is to predict whether there will be rain in the next day in Australia based on the previous data gathered between 2008 and 2017, based on RainTomorrow feature we can extract a feature to predict whether it will rain during the season or not, also the rainfall feature can be used to extract an output feature that can predict the amount of water expected in a certain season.<br>
 The ability to predict rain and the amount of the rain will help farmers plan which crops to grow at which time, which will help decrease food shortage and sustain stable food supplies.
 # Features:
 <ul>
