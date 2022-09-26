@@ -30,6 +30,20 @@ The ability to predict rain and the amount of the rain will help farmers plan wh
 <li>RainToday: Boolean: 1 if precipitation (mm) in the 24 hours to 9am exceeds 1mm, otherwise 0.</li>
 <li>RainTomorrow: The amount of next day rain in mm. Used to create response variable RainTomorrow. A kind of measure of the "risk".</li>
 </ul>
+<h1>Data</h1>
+<p>Link: <a href='https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package'>Rain in Australia</a></p>
+<h3>Preprocessing:</h3>
+<ul>
+<li>Handle Missing Values</li>
+<li>Feature Extraction</li>
+<li>Detecting Outliers</li>
+  <ul>
+    <li>Handling Outliers</li>
+  </ul>
+<li>Split Data into Train and Test</li>
+<li>Handle Imbalance</li>
+<li>Feature Scaling</li>
+</ul>
 <h1>Questions:</h1>
 <ul>
 <li>Does having rain today have an effect on rain?</li>
